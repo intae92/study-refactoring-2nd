@@ -1,0 +1,23 @@
+{
+  "name": "study-refactoring-2nd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intae92/study-refactoring-2nd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intae92/study-refactoring-2nd/issues"
+  },
+  "homepage": "https://github.com/intae92/study-refactoring-2nd#readme",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
